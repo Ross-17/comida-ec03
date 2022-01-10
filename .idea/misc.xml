@@ -3,11 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Hugo/Desktop/comida-ec03/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
-        <entry key="..\:/Users/Hugo/Desktop/comida-ec03/app/src/main/res/layout/config_fragment.xml" value="0.36666666666666664" />
-        <entry key="..\:/Users/Hugo/Desktop/comida-ec03/app/src/main/res/layout/inicio_fragment.xml" value="0.36666666666666664" />
-        <entry key="..\:/Users/Hugo/Desktop/comida-ec03/app/src/main/res/layout/login_fragment.xml" value="0.36666666666666664" />
-        <entry key="..\:/Users/Hugo/Desktop/comida-ec03/app/src/main/res/layout/postre_card.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/zarat/AndroidStudioProjects/comida-ec03/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/zarat/AndroidStudioProjects/comida-ec03/app/src/main/res/layout/config_fragment.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/zarat/AndroidStudioProjects/comida-ec03/app/src/main/res/layout/inicio_fragment.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/zarat/AndroidStudioProjects/comida-ec03/app/src/main/res/layout/login_fragment.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/zarat/AndroidStudioProjects/comida-ec03/app/src/main/res/layout/postre_card.xml" value="0.36666666666666664" />
       </map>
     </option>
   </component>
