@@ -1,0 +1,22 @@
+[
+  {
+    "nombre" : "Tarta de chocolate",
+    "imagenUrl": "https://mott.pe/noticias/wp-content/uploads/2016/05/Sin-duda-probarlos-podr%C3%ADa-provocarte-una-muerte-deliciosa-pero-tranquilo-estos-postres-solo-te-alegrar%C3%A1n-la-vida-2.jpg",
+    "precio": 26.99
+  },
+  {
+    "nombre": "Gelato",
+    "imagenUrl": "https://mott.pe/noticias/wp-content/uploads/2016/05/Sin-duda-probarlos-podr%C3%ADa-provocarte-una-muerte-deliciosa-pero-tranquilo-estos-postres-solo-te-alegrar%C3%A1n-la-vida-2-1.jpg",
+    "precio": 12.99
+  },
+  {
+    "nombre": "Tiramisú",
+    "imagenUrl": "https://mott.pe/noticias/wp-content/uploads/2016/05/Sin-duda-probarlos-podr%C3%ADa-provocarte-una-muerte-deliciosa-pero-tranquilo-estos-postres-solo-te-alegrar%C3%A1n-la-vida-3.jpg",
+    "precio": 16.99
+  },
+  {
+    "nombre": "Panna Cotta",
+    "imagenUrl": "https://mott.pe/noticias/wp-content/uploads/2016/05/Sin-duda-probarlos-podr%C3%ADa-provocarte-una-muerte-deliciosa-pero-tranquilo-estos-postres-solo-te-alegrar%C3%A1n-la-vida-4.jpg",
+    "precio": 12.99
+  }
+]
